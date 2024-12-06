@@ -1,7 +1,7 @@
 # Internal Security Audit for Botium Toys
 
 ## Introduction
-This project is a cybersecurity audit conducted for Botium Toys, a small U.S.-based business experiencing rapid growth in its online presence. The audit helps identify risks, threats, and vulnerabilities to their IT infrastructure and ensures compliance with relevant regulations.
+This project involves conducting an internal security audit for Botium Toys, a small U.S.-based toy company with a growing online presence. The purpose of the audit is to identify gaps in security controls and compliance practices, evaluate risks, and provide actionable recommendations to improve the organization’s security posture.
 
 ## Audit Scope and Goals
 The audit focused on:
