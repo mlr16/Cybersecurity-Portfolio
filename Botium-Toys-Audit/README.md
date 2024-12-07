@@ -82,6 +82,14 @@ The following assets are managed by the IT department:
 | Plan to notify E.U. customers of a breach                     | Yes              | A notification plan exists to inform customers within 72 hours of a breach.                    |
 | Proper data classification and inventory                     | No               | Data is not properly classified or inventoried.                                                |
 | Privacy policies and procedures                               | Yes              | Policies are enforced among IT staff and employees.                                            |
+#### System and Organizations Controls (SOC Type 1, SOC Type 2)
+
+| **Best Practice**                                      | **Implemented?** | **Details**                                                                                     |
+|-------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------|
+| **User access policies are established.**             | **No**           | User access policies are not defined, leading to unrestricted access to sensitive data.         |
+| **Sensitive data (PII/SPII) is confidential/private.** | **No**           | Sensitive data is not adequately protected, as all employees have access to it.                |
+| **Data integrity ensures data is consistent, complete, accurate, and validated.** | **Yes** | Data integrity controls are in place, ensuring the data is accurate and complete.               |
+| **Data is available to individuals authorized to access it.** | **No** | Access to sensitive data is not restricted, violating principles of least privilege.            |
 
 ---
 
@@ -109,6 +117,14 @@ Based on the findings, the following recommendations are made to improve Botium 
 
 7. **Enhance Compliance Efforts:**
    - Ensure adherence to PCI DSS and GDPR by implementing encryption and access control measures.
+  
+8. **User Access Policies:**
+   - Develop and enforce policies that define roles and permissions to access sensitive data.
+10. **Sensitive Data Confidentiality:**
+    - Encrypt sensitive data (PII/SPII) and limit access to authorized personnel only.
+11. **Availability:**
+    - Implement least privilege access control to ensure data is only accessible to individuals who need it.
+
 
 ---
 
