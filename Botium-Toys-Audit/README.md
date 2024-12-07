@@ -1,21 +1,22 @@
 # Internal Security Audit for Botium Toys
 
+## Introduction
+This project involves conducting an internal security audit for Botium Toys, a small U.S.-based toy company with a growing online presence. The purpose of the audit is to identify gaps in security controls and compliance practices, evaluate risks, and provide actionable recommendations to improve the organization’s security posture.
+
 ## Scope and Goals
-- **Scope:** Review all aspects of Botium Toys’ security program, including IT assets, systems, and compliance practices.
-- **Goals:** Identify gaps in security controls and compliance to improve the company’s security posture.
+### Scope
+The audit covers all aspects of Botium Toys' security program, including:
+- IT-managed assets such as on-premises and employee equipment.
+- Systems like accounting, telecommunications, and inventory management.
+- Internal network, legacy systems, and data retention.
 
-## Key Findings
-### Risks Identified:
-1. Lack of proper access controls (e.g., least privilege).
-2. No data encryption for sensitive customer data.
-3. No intrusion detection system (IDS) or disaster recovery plan.
-
-### Recommendations:
-- Implement encryption for sensitive customer data.
-- Establish a robust password policy and centralized password management.
-- Deploy an IDS and create a disaster recovery plan.
+### Goals
+- Assess existing assets and controls to identify gaps.
+- Evaluate compliance with relevant regulations such as PCI DSS, GDPR, and SOC standards.
+- Provide recommendations to improve Botium Toys' overall security posture.
 
 ## Current Assets
-- On-premises equipment (e.g., desktops, laptops, smartphones).
-- Systems: accounting, e-commerce, security, etc.
-- Internal network and legacy systems.
+(Include the list of assets here, as shown in the report.)
+
+## Risk Assessment
+(Add the risk description, impact, and score from the report.)
